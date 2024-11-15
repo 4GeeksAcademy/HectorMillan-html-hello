@@ -1,0 +1,80 @@
+body{
+
+    background-color: white;
+    margin: 0; 
+    padding: 0; 
+    width: 100%
+    
+}
+h2{
+    font-size: 20px;
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style:normal;
+    text-align: left;
+   
+}
+
+h1{
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 70px;
+    font-size: 30px;
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style:normal;
+    text-align: center;
+    background-color:#1877F2;;
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+   
+   
+}
+
+.encabezado_publicacion{
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center;
+    padding: 10px;
+}
+
+p{
+
+    padding-left: 10px;
+}
+
+.encaberzado{
+   
+  
+   
+}
+
+.cuerpo{
+    display: flex;
+    margin:auto;
+    width: 600px;
+    justify-content: center;
+    flex-direction: column;
+    
+
+}
+
+.publicacion{
+    width: 500px;
+    height: 500px;
+    margin:auto;
+    border-radius: 3;
+    border-style: groove;
+    border-color: antiquewhite;
+    background-color: #AAC9FF;
+    align-items: center;
+    margin-top: 50px;
+    
+   
+
+}
+
